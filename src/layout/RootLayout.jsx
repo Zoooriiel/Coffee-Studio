@@ -5,16 +5,18 @@ import { Outlet } from 'react-router-dom'
 
 const RootLayout = () => {
   return (
-    <div>
-
+    <div className="min-h-screen flex flex-col"> 
+    
+    {/* Navbar */}
       <Navbar />
 
-      <div className="container"> 
-      <Outlet />
+        {/* Main content area */}
+      <div className="flex-grow"> 
+        <Outlet />
       </div>
 
-      <Footer />
-
+      {/* Footer */}
+      <Footer /> 
     </div>
   )
 }

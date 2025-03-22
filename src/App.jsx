@@ -3,7 +3,7 @@ import Home from './pages/Home'
 import Shop from './pages/Shop'
 import Learn from './pages/Learn'
 import CoffeeExperience from './pages/CoffeeExperience'
-import Product from './pages/Product'
+import CoffeeList from './pages/CoffeeList'
 import Cart from './pages/Cart'
 import Login from './pages/Login'
 import PlaceOrder from './pages/PlaceOrder'
@@ -21,7 +21,7 @@ const App = () => {
         <Route path='shop' element={<Shop />} />
         <Route path='learn' element={<Learn />} />
         <Route path='coffeeexperience' element={<CoffeeExperience />} />
-        <Route path='product/:productId' element={<Product />}/>
+        <Route path='coffeeList/:productId' element={<CoffeeList />}/>
         <Route path='cart' element={<Cart />} />
         <Route path='login' element={<Login />} />
         <Route path='place-order' element={<PlaceOrder />} />

@@ -6,7 +6,7 @@ import { NavLink } from 'react-router-dom'
 
 const Navbar = () => {
   return (
-    <div className='navbar h-38 bg-white fixed w-full z-10'>
+    <div className='navbar h-24 bg-white fixed w-full z-10'>
       <div className='navbar-left'>
       <ul>
         <NavLink to='/shop'><li>Shop</li></NavLink>
@@ -16,7 +16,7 @@ const Navbar = () => {
       </div>
 
       <div className='navbar-center'>
-      <NavLink to='/'><img src={logo} alt="Coffee Studio" width="150px"/></NavLink>
+      <NavLink to='/'><img src={logo} alt="Coffee Studio" width="90px"/></NavLink>
       </div>
 
       <div className='navbar-right'>

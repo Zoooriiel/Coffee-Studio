@@ -1,0 +1,51 @@
+[
+  {
+    "_id": "6424335b59f9f6fdd657d2e1",
+    "id": 1,
+    "name": "Heavenly Spice",
+    "description": "Comforting",
+    "price": 89.99,
+    "region": "South Asia",
+    "weight": null,
+    "flavor_profile": [
+      ""
+    ],
+    "grind_option": [
+      ""
+    ],
+    "roast_level": null,
+    "image_url": "https://images.unsplash.com/photo-1511920170033-f8396924c348?q=50&w=200&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "_id": "6424335b59f9f6fdd657d2e2",
+    "id": 2,
+    "name": "Nescafé",
+    "description": "Nescafé is a globally recognized brand of instant coffee, produced by Nestlé. Known for its convenience, rich aroma, and smooth taste, Nescafé offers a variety of coffee blends, from classic instant coffee to premium options like Gold Blend and specialty flavors. Whether you prefer a strong espresso, a creamy latte, or a simple black coffee, Nescafé provides an easy and quick way to enjoy a satisfying cup. With a history dating back to 1938, Nescafé has become a household favorite, delivering quality coffee to millions worldwide.",
+    "price": 100,
+    "region": "South Asia",
+    "weight": "30",
+    "flavor_profile": [
+      ""
+    ],
+    "grind_option": [
+      ""
+    ],
+    "roast_level": 4,
+    "image_url": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "_id": "6424335b59f9f6fdd657d2e3",
+    "id": 3,
+    "name": "Costa",
+    "description": "Tasty",
+    "price": 100,
+    "region": "South Asia",
+    "weight": "30",
+    "flavor_profile": [],
+    "grind_option": [
+      ""
+    ],
+    "roast_level": 4,
+    "image_url": "https://images.unsplash.com/photo-1512568400610-62da28bc8a13?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]

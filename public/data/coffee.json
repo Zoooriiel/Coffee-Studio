@@ -6,7 +6,7 @@
     "description": "Comforting",
     "price": 89.99,
     "region": "South Asia",
-    "weight": null,
+    "weight": 40,
     "flavor_profile": [
       ""
     ],
@@ -40,7 +40,7 @@
     "description": "Tasty",
     "price": 100,
     "region": "South Asia",
-    "weight": "30",
+    "weight": "25",
     "flavor_profile": [],
     "grind_option": [
       ""

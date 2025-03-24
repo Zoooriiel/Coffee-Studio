@@ -1,13 +1,13 @@
 import React from 'react'
 import ShopBanner from '../components/ShopBanner'
 import CoffeeList from './CoffeeList'
-import Dropdown from '../components/Dropdown'
+import Filters from '../components/Filters'
 
 const Shop = () => {
   return (
     <div className='w-screen'>
       <ShopBanner />
-      <Dropdown />
+      <Filters />
       <CoffeeList />
     </div>
   )

@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Espresso Mastery",
+      "description": "Learn the art of pulling the perfect espresso shot.",
+      "price": 50,
+      "image_url": "https://example.com/espresso-class.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Latte Art Workshop",
+      "description": "Master the skills of steaming milk and pouring latte art.",
+      "price": 65,
+      "image_url": "https://example.com/latte-art.jpg"
+    },
+    {
+      "id": 3,
+      "title": "French Press Brewing",
+      "description": "Learn how to brew rich coffee using a French press.",
+      "price": 40,
+      "image_url": "https://example.com/french-press.jpg"
+    }
+  ]
+  

@@ -4,6 +4,7 @@ import ProductCard from "../components/ProductCard";
 const CoffeeList = () => {
   const [coffeeData, setCoffeeData] = useState([]);
 
+
   useEffect(() => {
     fetch("/data/coffee.json")
       .then((response) => response.json())
@@ -16,6 +17,7 @@ const CoffeeList = () => {
       {coffeeData.map((coffee) => ( 
         <ProductCard
           key={coffee.id}
+          id={coffee.id}
           img={coffee.image_url}
           name={coffee.name}
           description={coffee.description}
